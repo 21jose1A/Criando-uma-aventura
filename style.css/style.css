@@ -6,5 +6,11 @@ body {
 justify-content: center;
 align-items: center;
 height: 700px;
-marg
+margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white
+    font-family: "Bai Jmjurre", sans-serif
 }
